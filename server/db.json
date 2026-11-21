@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Workshop Thiết kế UI/UX cơ bản",
+      "date": "2026-11-28",
+      "startTime": "08:30",
+      "endTime": "11:30",
+      "mode": "offline",
+      "location": "Phòng hội thảo A, Nhà A1",
+      "maxSeats": 60,
+      "description": "Thực hành xây dựng giao diện và tư duy thiết kế lấy người dùng làm trung tâm."
+    },
+    {
+      "id": "2",
+      "name": "Đêm nhạc gây quỹ Mùa Đông",
+      "date": "2026-12-05",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "mode": "offline",
+      "location": "Sân khấu ngoài trời khuôn viên trường",
+      "maxSeats": 250,
+      "description": "Đêm biểu diễn âm nhạc gây quỹ cho hoạt động thiện nguyện."
+    },
+    {
+      "id": "3",
+      "name": "Talkshow Định hướng nghề nghiệp IT",
+      "date": "2026-10-20",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "mode": "online",
+      "meetingUrl": "https://meet.google.com/abc-defg-hij",
+      "maxSeats": 150,
+      "description": "Giao lưu cùng cựu thành viên đang làm việc trong ngành công nghệ."
+    },
+    {
+      "id": "4",
+      "name": "Giải đấu E-sports CLB 2026",
+      "date": "2026-12-12",
+      "startTime": "09:00",
+      "endTime": "17:00",
+      "mode": "offline",
+      "location": "Hội trường lớn",
+      "maxSeats": 120,
+      "description": "Giải đấu giao hữu dành cho thành viên và sinh viên toàn trường."
+    },
+    {
+      "id": "5",
+      "name": "Buổi chia sẻ Kỹ năng thuyết trình",
+      "date": "2026-09-15",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "mode": "offline",
+      "location": "Phòng học B203",
+      "maxSeats": 40,
+      "description": "Các phương pháp trình bày tự tin và thu hút người nghe."
+    },
+    {
+      "id": "7",
+      "name": "Ngày hội tuyển thành viên mới",
+      "date": "2026-08-30",
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "mode": "offline",
+      "location": "Quảng trường sinh viên",
+      "maxSeats": 500,
+      "description": "Giới thiệu các ban và hoạt động thường niên của câu lạc bộ."
+    },
+    {
+      "id": "8",
+      "name": "Mini game Hackathon 24 giờ",
+      "date": "2026-11-25",
+      "startTime": "07:00",
+      "endTime": "23:00",
+      "mode": "online",
+      "meetingUrl": "https://discord.gg/clubevent",
+      "maxSeats": 80,
+      "description": "Thử thách sáng tạo sản phẩm số theo nhóm trong 24 giờ."
+    }
+  ]
+}
